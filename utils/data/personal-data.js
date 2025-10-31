@@ -1,17 +1,20 @@
 export const personalData = {
-  name: "Ahmed Ewees",
-  profile: '/profile.jpg',
+  name: "Mohamed Ashraf",
+  profile: "/profile.jpg",
   designation: "Software Developer",
-  description: "I am a skilled full stack web developer specializing in the MERN stack, with extensive experience in using Tailwind and Bootstrap frameworks to create responsive and visually appealing designs. My knowledge also includes PHP and Laravel, allowing me to build robust and scalable back-end solutions. I am committed to continuous learning, always staying updated with the latest technologies and trends in web development to ensure I deliver cutting-edge solutions for every project I work on.",
-  email: 'ahmedewaisvi34@gmail.com',
-  phone: '+201014955763',
-  address: 'Helwan, Cairo , Egypt ',
-  github: 'https://github.com/AhmedEweesKorany',
-  facebook: 'https://www.facebook.com/ahmed.azoz.33821/',
-  linkedIn: 'https://www.linkedin.com/in/ahmed-ewees-528657288/',
-  twitter: 'https://x.com/AhmedEweesvi34',
-  stackOverflow: '#',
-  leetcode: "https://leetcode.com/u/Ahmed_Ewees/",
-  devUsername: "AhmedEweesKorany",
-  resume: "https://ahmedewaisvi34.hackerresume.io/9c0662de-b69f-413d-ac4f-e42baf44827c"
-}
+  description:
+    "I'm a driven Full Stack Web Developer with a passion for building digital experiences that blend performance, design, and innovation. My expertise spans the MERN stack and modern frameworks like Next.js and Laravel, empowering me to create everything from sleek frontends to scalable backend architectures.\n\nI thrive on turning complex ideas into clean, functional code — crafting responsive, high-performing web apps with Tailwind CSS, TypeScript, and cutting-edge JavaScript tools. Beyond coding, I'm a natural problem solver and team collaborator who values precision, scalability, and user impact above all.\n\nEvery project I work on is an opportunity to push boundaries, learn something new, and build technology that actually matters.",
+  email: "mohameashraf24@gmail.com",
+  phone: "+201024143237",
+  address: "Qalubia, Cairo , Egypt ",
+  github: "https://github.com/tokhy1",
+  facebook: "https://www.facebook.com/mohamed.ashraf.19357/",
+  linkedIn:
+    "https://www.linkedin.com/in/mohamed-ashraf-abd-elmoneam-409538246/",
+  twitter: "#",
+  stackOverflow: "#",
+  leetcode: "https://leetcode.com/u/tokhy24/",
+  devUsername: "tokhy1",
+  resume:
+    "/Mohamed-Ashraf-Resume.pdf",
+};

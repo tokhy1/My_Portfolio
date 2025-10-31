@@ -6,6 +6,7 @@ export const contactsData = {
   facebook: "https://www.facebook.com/mohamed.ashraf.19357/",
   linkedIn:
     "https://www.linkedin.com/in/mohamed-ashraf-abd-elmoneam-409538246/",
-  leetcode: "tokhy24",
+  twitter: "#",
+  stackOverflow: "#",
   devUsername: "tokhy1",
 };
