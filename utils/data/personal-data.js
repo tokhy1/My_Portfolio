@@ -13,8 +13,7 @@ export const personalData = {
     "https://www.linkedin.com/in/mohamed-ashraf-abd-elmoneam-409538246/",
   twitter: "#",
   stackOverflow: "#",
-  leetcode: "https://leetcode.com/u/tokhy24/",
+  leetcode: "https://leetcode.com/u/5KbV0zpUOV/",
   devUsername: "tokhy1",
-  resume:
-    "/Mohamed-Ashraf-Resume.pdf",
+  resume: "/Mohamed-Ashraf-Resume.pdf",
 };

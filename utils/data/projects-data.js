@@ -1,43 +1,54 @@
-
 export const projectsData = [
-    {
-        id: 1,
-        name: 'Ponder Peak',
-        description: "📄 A responsive and modern Blog App Frontend built with React and styled using Tailwind CSS. This app offers a seamless user experience with dynamic content rendering and intuitive UI. 🚀 Dive into the code to explore how components and state management come together to create an engaging blogging platform",
-        tools: ['Express', 'MongoDB', 'React',  'Node js', 'tailwind','aos animation','MVC',"React Query"],
-        role: 'Full-Stack Developer',
-        code: 'https://github.com/AhmedEweesKorany/Ponder_Peak',
-        demo: 'https://ponder-peak.vercel.app/',
-    },
-    {
-        id: 2,
-        name: 'Dern Support',
-        description: 'This Website is a part of Task 2 in BTEC International Level 3 IT Pearson Set Assignment Unit 25 (Full-Stack Development).',
-        tools: ['React',"Node js","Express","mySQL","tailwind","Shadcn ui"],
-        role: 'Full Stack Developer',
-        code: 'https://github.com/AhmedEweesKorany/dern-support',
-        demo: 'https://www.linkedin.com/posts/ahmed-ewees-528657288_reactjs-vite-shadcn-activity-7197952563021787138-6ggC?utm_source=share&utm_medium=member_desktop',
-    },
-    {
-        id: 3,
-        name: 'Shopsy',
-        description: 'Shopsy is a modern eCommerce website specializing in selling T-shirts and clothing. Built using React and Tailwind CSS, it delivers a clean, responsive design with smooth navigation for a seamless shopping experience. The platform showcases stylish products with an intuitive user interface, making it easy for customers to browse, select, and purchase. Shopsy emphasizes functionality and aesthetic appeal, catering to a diverse audience seeking quality apparel online.',
-        tools: ['React', 'tailwind','aos'],
-        code: 'https://github.com/AhmedEweesKorany/Shopsy',
-        role: 'Front-End Developer',
-        demo: 'https://shopsy-orpin.vercel.app/',
-    },
-    {
-        id: 4,
-        name: 'Berimbolo-Security',
-        description: "Berimbolo-Security is a professional website showcasing a company specializing in security devices and CCTV systems. Designed with a focus on clarity and usability, the platform highlights the company’s expertise in providing advanced security solutions. Users can explore a wide range of products and services tailored to meet safety needs. The website’s modern design reflects the company’s commitment to innovation and reliability in the field of security technology.",
-        tools: ['html', 'css', 'js', "animation"],
-        code: 'https://github.com/AhmedEweesKorany/Berimbolo-Security',
-        demo: 'https://ahmedeweeskorany.github.io/Berimbolo-Security/',
-        role: 'Front-End Developer',
-    }
+  {
+    id: 1,
+    name: "Simple Business Solutions Website",
+    description:
+      "Full-Stack Web Application: Designed and developed the website for Simple Business Solutions (SBS), a company for providing governmental solutions, using Next.js and Tailwind CSS for a modern, responsive frontend and Express.js for robust backend functionality.",
+    tools: ["Next.js", "tailwind", "clsx", "gsap", "sonner", "ogi", "lenis"],
+    role: "Front End Developer",
+    code: "https://github.com/Abram122/SBS",
+    demo: "https://sbs-eg.org/",
+  },
+  {
+    id: 2,
+    name: "Qaderoon Website",
+    description:
+      "Full-Stack Web Application: Designed and developed the website for Qaderoon Youth Foundation (QYF), a volunteer organization under the Ministry of Youth and Sports, using React and Tailwind CSS for a modern, responsive frontend and Express.js for robust backend functionality.",
+    tools: [
+      "React",
+      "Node js",
+      "Express js",
+      "tailwind",
+      "aos animation",
+      "Swiper",
+      "React Query",
+      "React Router Dom",
+    ],
+    role: "Front End Developer",
+    code: "https://github.com/1amir-talaat/qaderoon-project",
+    demo: "https://qyf-eg.org/",
+  },
+  {
+    id: 3,
+    name: "TEDx TabaryElhegaz Website",
+    description:
+      "Developed the official TEDx Tabary Elhegaz website Event & Community Platform using Next.js and Tailwind CSS, ensuring a fast, SEO-optimized, and responsive user experience. Implemented dynamic event updates, speaker profiles, and a real-time countdown to enhance user engagement.",
+    tools: ["Next.js", "tailwindcss", "Aos"],
+    role: "Front End Developer",
+    code: "https://github.com/Abdo1629/TedxTabaryElHegaz/tree/next-version",
+    demo: "https://www.tedxtabaryelhegaz.com/",
+  },
+  {
+    id: 4,
+    name: "Shopsy - Eccommerce Frontend",
+    description:
+      "Designed and developed Shopsy, a responsive e-commerce frontend using React, Tailwind CSS, and Vite, featuring dark mode, interactive UI, and smooth animations with react-slick and AOS.",
+    tools: ["React", "tailwind", "aos"],
+    role: "Front-End Developer",
+    code: "https://github.com/tokhy1/Shopsy-Ecommerce-Design",
+    demo: "https://shopsy-ecommerce-design.netlify.app/",
+  },
 ];
-
 
 // Do not remove any property.
 // Leave it blank instead as shown below
