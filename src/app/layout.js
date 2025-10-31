@@ -10,9 +10,9 @@ import ScrollToTop from "./components/helper/scroll-to-top";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Portfolio of Ahmed Ewees - Software Developer",
+  title: "Portfolio of Mohamed Ashraf - Software Developer",
   description:
-    "I am a skilled full stack web developer specializing in the MERN stack, with extensive experience in using Tailwind and Bootstrap frameworks to create responsive and visually appealing designs. My knowledge also includes PHP and Laravel, allowing me to build robust and scalable back-end solutions. I am committed to continuous learning, always staying updated with the latest technologies and trends in web development to ensure I deliver cutting-edge solutions for every project I work on.",
+    "I'm a driven Full Stack Web Developer with a passion for building digital experiences that blend performance, design, and innovation. My expertise spans the MERN stack and modern frameworks like Next.js and Laravel, empowering me to create everything from sleek frontends to scalable backend architectures.\n\nI thrive on turning complex ideas into clean, functional code — crafting responsive, high-performing web apps with Tailwind CSS, TypeScript, and cutting-edge JavaScript tools. Beyond coding, I'm a natural problem solver and team collaborator who values precision, scalability, and user impact above all.\n\nEvery project I work on is an opportunity to push boundaries, learn something new, and build technology that actually matters.",
 };
 
 export default function RootLayout({ children }) {

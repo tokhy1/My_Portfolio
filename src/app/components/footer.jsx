@@ -11,12 +11,18 @@ function Footer() {
         </div>
         <div className="flex flex-col md:flex-row items-center justify-center">
           <p className="text-sm">
-            © Developer Portfolio by <Link target="_blank" href="https://www.linkedin.com/in/ahmed-ewees-528657288/" className="text-[#16f2b3]">Ahmed Ewees</Link>  (cloned From  <Link target="_blank" href="https://www.linkedin.com/in/abu-said-bd/" className="text-[#16f2b3]">Abu Said</Link>)
+            © Developer Portfolio by{" "}
+            <Link
+              target="_blank"
+              href="https://www.linkedin.com/in/mohamed-ashraf-abd-elmoneam-409538246/"
+              className="text-[#16f2b3]"
+            >
+              Mohamed Ashraf
+            </Link>
           </p>
-         
         </div>
       </div>
-    </div >
+    </div>
   );
 };
 
